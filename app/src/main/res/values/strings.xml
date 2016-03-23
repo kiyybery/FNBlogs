@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FNBlogs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="open_navigator">打开导航菜单</string>
+    <string name="close_navigator">关闭导航菜单</string>
+
+    <string name="title_activity_setting">系统设置</string>
+    <string name="dir_empty">空空如也</string>
+
+    <string name="alert_no_comment">还没有评论哦</string>
+    <string name="alert_error">数据获取失败，下拉重试</string>
+    <string name="alert_load_all_load">没有更多了</string>
+    <string name="net_work_disconnected">获取数据失败，请检查网络连接</string>
+    <string name="notify_pull_to_refresh">下拉刷新</string>
+    <string name="notify_release_to_load">松手刷新</string>
+    <string name="notify_refreshing">努力加载中...</string>
+    <string name="notify_refresh_success">刷新成功</string>
+    <string name="notify_refresh_fail">刷新失败</string>
+
+    <string name="alert_is_cleaned">已清空</string>
+    <string name="function_building">功能尚在建设中。。。</string>
+</resources>
